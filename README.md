@@ -1,2 +1,2 @@
 ### Acing JavaScript
-This particular repo is to keep myself up to date and never forget the power of JavaScript
+The purpose of this repository is to keep both necessary and unnecessary stuff 
