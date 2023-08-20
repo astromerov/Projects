@@ -12,3 +12,6 @@ If you want to contribute to any of the files or if you find any problems or iss
 2. [Outlook](umerovm@hotmail.com)
 3. [Telegram](https://www.t.me/astromerov)
 4. [Instagram](https://www.instagram.com/astromerov)
+
+#
+![giphy](https://github.com/astromerov/Learnings/assets/96944796/f444f57b-5d11-41a1-89d2-8c11640e6a85)
